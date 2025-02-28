@@ -1,0 +1,171 @@
+[
+    {
+      "id": 1,
+      "name": "Mens Shirt",
+      "price": 159,
+      "image": "https://m.media-amazon.com/images/I/611jz3yi-2L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Polo Shirt"
+    },
+    {
+      "id": 2,
+      "name": "Mens Shirt",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/61o6YUP7SwL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Allen Solly 2"
+    },
+    {
+      "id": 3,
+      "name": "Mens Shirt",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/61k-h8Q2C1L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Canali"
+    },
+    {
+      "id": 4,
+      "name": "Mens Shirt",
+      "price": 250,
+      "image": "https://m.media-amazon.com/images/I/61JxTwwj-5L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Brooks Brothers"
+    },
+    {
+      "id": 5,
+      "name": "Mens Jean Pant",
+      "price": 180,
+      "image": "https://m.media-amazon.com/images/I/81kt3gV6RAL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Levi's"
+    },
+    {
+      "id": 6,
+      "name": "Mens Jean Pant",
+      "price": 120,
+      "image": "https://m.media-amazon.com/images/I/71PlzRWMYpL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Hampton"
+    },
+    {
+      "id": 7,
+      "name": "Mens Jean Pant",
+      "price": 300,
+      "image": "https://m.media-amazon.com/images/I/51mQGVVXuPL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Carhartt"
+    },
+    {
+      "id": 8,
+      "name": "Mens Jean Pant",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/71OBVZ-69WL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Wrangler"
+    },
+    {
+      "id": 9,
+      "name": "Kids Watch",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/61weYP3dTmL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Starks"
+    },
+    {
+      "id": 10,
+      "name": "Kids Watch",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/514qR8epZyL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Sports"
+    },
+    {
+      "id": 11,
+      "name": "Kids Watch",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/61J-OddQDeL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Noise"
+    },
+    {
+      "id": 12,
+      "name": "Kids Watch",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/71oIXe+ms1L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Zoop"
+    },
+    {
+      "id": 13,
+      "name": "Ear Bud",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/41lhbUic+vL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Boult R5"
+    },
+    {
+      "id": 14,
+      "name": "Ear Bud",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/710dy4BFjLL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "Boult Z1"
+    },{
+      "id": 15,
+      "name": "Ear Bud",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/51xkI5YCpoL._AC_UY327_FMwebp_QL65_.jpg",
+      "description": "Boult S3"
+    },
+    {
+      "id": 16,
+      "name": "Ear Bud",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/71fhOp-12tL._AC_UY327_FMwebp_QL65_.jpg",
+      "description": "Amazone Series"
+    },
+    {
+      "id": 17,
+      "name": "Mobile",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/81FZk5pGzFL._AC_UY327_FMwebp_QL65_.jpg",
+      "description": "Samsung Galaxy M35 5G"
+    },
+    {
+      "id": 18,
+      "name": "Kids Dress",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/51nUfiMuCLL._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "This is a description of product 8"
+    },
+    {
+      "id": 19,
+      "name": "Mobile",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/8189mzscM6L._AC_UY327_FMwebp_QL65_.jpg",
+      "description": "Samsung Galaxy M35 4G"
+    },
+    {
+      "id": 20,
+      "name": "Kids Dress",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/61JWArua58L._AC_UL480_FMwebp_QL65_.jpg",
+      "description": "This is a description of product 8"
+    },
+    {
+      "id": 21,
+      "name": "Smart Watch",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/71wXX5IRnzL._AC_UL480_QL65_.jpg",
+      "description": "Boult 7"
+    },
+    {
+      "id": 22,
+      "name": "Smart Watch",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/71g09REHnkL._AC_UL480_QL65_.jpg",
+      "description": "Noise"
+    },
+    {
+      "id": 23,
+      "name": "Smart Watch",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/71nzWfUAt+L._AC_UL480_QL65_.jpg",
+      "description": "Fire Boult 8"
+    },
+    {
+      "id": 24,
+      "name": "Smart Watch",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/71RODY0smeL._AC_UL480_QL65_.jpg",
+      "description": "Noise Express"
+    }
+
+  ]
+  
